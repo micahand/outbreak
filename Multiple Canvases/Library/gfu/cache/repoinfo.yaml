@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-20T06:20:07.311-05:00
-  initializedAtString: 2019-02-20T06:20:07.311-05:00
+  lastUpdatedAtString: 2019-02-23T18:29:08.677-05:00
+  initializedAtString: 2019-02-23T18:29:08.677-05:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/micahand/outbreak.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/micahand/outbreak.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/micahand/outbreak.git
   currentHead: 

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-23T18:50:20.826-05:00
-  initializedAtString: 2019-02-23T18:50:20.826-05:00
+  lastUpdatedAtString: 2019-02-25T21:03:51.773-05:00
+  initializedAtString: 2019-02-25T21:03:51.773-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/micahand/outbreak.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Functioning-Project
+    tracking: origin/Functioning-Project
   currentConfigBranch:
-    name: master
+    name: Functioning-Project
     remote:
       name: origin
       url: https://github.com/micahand/outbreak.git
-    trackingBranch: master
+    trackingBranch: Functioning-Project
   currentConfigRemote:
     name: origin
     url: https://github.com/micahand/outbreak.git

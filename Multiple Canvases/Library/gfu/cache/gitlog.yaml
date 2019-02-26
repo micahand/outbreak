@@ -13,9 +13,119 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-02-23T18:50:21.437-05:00
-  initializedAtString: 2019-02-23T18:50:21.437-05:00
+  lastUpdatedAtString: 2019-02-23T18:57:54.921-05:00
+  initializedAtString: 2019-02-23T18:57:50.501-05:00
   log:
+  - commitID: 9dc50e36d4a0626df0cd37c3c54e76f9b38a46c0
+    mergeA: 
+    mergeB: 
+    authorName: sachedal
+    authorEmail: 34170549+sachedal@users.noreply.github.com
+    commitEmail: 34170549+sachedal@users.noreply.github.com
+    commitName: sachedal
+    summary: Updated Map to image on file
+    description: "Updated Map to image on file\r\n\r\nUpdated the map on canvas three
+      to the sample image we had on map 3, just for consistensy"
+    timeString: 2019-02-23T18:52:29.000-05:00
+    commitTimeString: 2019-02-23T18:52:29.000-05:00
+    changes:
+    - path: Multiple Canvases\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Assets\map.jpg
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\map.jpg
+      projectPath: Assets\map.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Canvases\\Assets\\sample_Congo_Map.jpg.meta\tMultiple Canvases\\Assets\\map.jpg.meta"
+      fullPath: "C:\\Users\\akhil\\Documents\\GitHub\\outbreak\\Canvases\\Assets\\sample_Congo_Map.jpg.meta\tMultiple
+        Canvases\\Assets\\map.jpg.meta"
+      projectPath: "..\\Canvases\\Assets\\sample_Congo_Map.jpg.meta\tMultiple Canvases\\Assets\\map.jpg.meta"
+      originalPath: Multiple
+      status: 6
+      staged: 0
+    - path: Multiple Canvases\Assets\sample_Congo_Map.jpg
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\sample_Congo_Map.jpg
+      projectPath: Assets\sample_Congo_Map.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Multiple Canvases\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\assetDatabase3
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Multiple Canvases\Library\metadata\b3\b3a6e9c2fc542ab48a029ac2a7dccecd
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\b3\b3a6e9c2fc542ab48a029ac2a7dccecd
+      projectPath: Library\metadata\b3\b3a6e9c2fc542ab48a029ac2a7dccecd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Multiple Canvases\Library\metadata\b3\b3a6e9c2fc542ab48a029ac2a7dccecd.info
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\b3\b3a6e9c2fc542ab48a029ac2a7dccecd.info
+      projectPath: Library\metadata\b3\b3a6e9c2fc542ab48a029ac2a7dccecd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Multiple Canvases\Library\metadata\bd\bd9c420d1693c754ba1f487eaa839ab9
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\bd\bd9c420d1693c754ba1f487eaa839ab9
+      projectPath: Library\metadata\bd\bd9c420d1693c754ba1f487eaa839ab9
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Multiple Canvases\Library\metadata\bd\bd9c420d1693c754ba1f487eaa839ab9.info
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\bd\bd9c420d1693c754ba1f487eaa839ab9.info
+      projectPath: Library\metadata\bd\bd9c420d1693c754ba1f487eaa839ab9.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Multiple Canvases\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 67d219c84dbef0fdff51ff11bb367141533f0931
     mergeA: 9d5d100fbbd6c6faa6be7b408d5bfd4e48a6a706
     mergeB: 198ed09c177246fd477eea84e3dbdb645839e936

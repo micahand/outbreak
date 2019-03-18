@@ -4,31 +4,33 @@ using UnityEngine;
 
 public class R1 : MonoBehaviour
 {
-
-    private resource resourceScript;
-    private int count;
+    public GameObject screenObject;
+    private Resource resourceScript;
     private SpriteRenderer resOne;
 
 
     private void Awake()
     {
-        resourceScript = GetComponent<resource>();
-        count = resourceScript.resourceCount;
 
+        resourceScript = screenObject.GetComponent<Resource>();
         resOne = GetComponent<SpriteRenderer>();
     }
     // Start is called before the first frame update
     void Start()
     {
-        
+      
     }
 
     // Update is called once per frame
     void Update()
     {
-    if (count == 0)
+    if (resourceScript.resourceCount == 0)
         {
             resOne.color = new Color(1f, 1f, 1f, 0f);
+        }
+    else
+        {
+            resOne.color = new Color(1f, 1f, 1f, 1f);
         }
     }
 }

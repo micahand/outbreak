@@ -13,17 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-23T18:57:54.642-05:00
-  initializedAtString: 2019-02-23T18:57:54.598-05:00
+  lastUpdatedAtString: 2019-03-18T18:25:59.159-04:00
+  initializedAtString: 2019-03-18T18:25:58.981-04:00
   localBranches:
+  - name: akhil&micah
+    tracking: origin/akhil&micah
   - name: Functioning-Project
     tracking: origin/Functioning-Project
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/akhil&micah
+    tracking: '[None]'
   - name: origin/Functioning-Project
     tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Kirk&Johnny
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
@@ -37,9 +43,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - akhil&micah
     - Functioning-Project
     - master
     values:
+    - name: akhil&micah
+      remote:
+        name: origin
+        url: https://github.com/micahand/outbreak.git
+      trackingBranch: akhil&micah
     - name: Functioning-Project
       remote:
         name: origin
@@ -55,17 +67,29 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - akhil&micah
       - Functioning-Project
       - HEAD
+      - Kirk&Johnny
       - master
     subKeyValues:
     - Values:
+      - name: akhil&micah
+        remote:
+          name: origin
+          url: https://github.com/micahand/outbreak.git
+        trackingBranch: 
       - name: Functioning-Project
         remote:
           name: origin
           url: https://github.com/micahand/outbreak.git
         trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/micahand/outbreak.git
+        trackingBranch: 
+      - name: Kirk&Johnny
         remote:
           name: origin
           url: https://github.com/micahand/outbreak.git

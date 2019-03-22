@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MultiDisplay.cs" />
+    <Compile Include="Assets\NextScene.cs" />
     <Compile Include="Assets\R1.cs" />
     <Compile Include="Assets\Resource.cs" />
     <Compile Include="Assets\ResourceManage.cs" />

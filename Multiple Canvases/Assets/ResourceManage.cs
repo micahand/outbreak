@@ -20,8 +20,8 @@ public class ResourceManage : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        LeftButton.onClick.AddListener(Decrement);
-        RightButton.onClick.AddListener(Increment);
+        LeftButton.onClick.AddListener(Increment);
+        RightButton.onClick.AddListener(Decrement);
     }
 
     // Update is called once per frame
@@ -32,7 +32,7 @@ public class ResourceManage : MonoBehaviour
 
     void Decrement()
     {
-        Debug.Log("Left Clicked");
+        Debug.Log("Right Clicked");
         if (resourceScript.resourceCount > 0)
         {
             resourceScript.resourceCount--;
@@ -41,7 +41,7 @@ public class ResourceManage : MonoBehaviour
     }
     void Increment()
     {
-        Debug.Log("Right Clicked");
+        Debug.Log("Left Clicked");
         if (resourceScript.resourceCount < 5)
         {
             resourceScript.resourceCount++;

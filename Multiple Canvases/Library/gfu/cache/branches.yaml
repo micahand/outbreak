@@ -13,25 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-03-22T00:06:44.007-04:00
-  initializedAtString: 2019-03-22T00:06:43.979-04:00
+  lastUpdatedAtString: 2019-03-26T20:21:17.735-04:00
+  initializedAtString: 2019-03-26T20:21:17.717-04:00
   localBranches:
   - name: akhil&micah
     tracking: origin/akhil&micah
-  - name: Functioning-Project
-    tracking: origin/Functioning-Project
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/akhil&micah
-    tracking: '[None]'
-  - name: origin/Functioning-Project
-    tracking: '[None]'
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/Kirk&Johnny
-    tracking: '[None]'
-  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,7 +34,6 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - akhil&micah
-    - Functioning-Project
     - master
     values:
     - name: akhil&micah
@@ -52,11 +41,6 @@ MonoBehaviour:
         name: origin
         url: https://github.com/micahand/outbreak.git
       trackingBranch: akhil&micah
-    - name: Functioning-Project
-      remote:
-        name: origin
-        url: https://github.com/micahand/outbreak.git
-      trackingBranch: Functioning-Project
     - name: master
       remote:
         name: origin
@@ -67,34 +51,10 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - akhil&micah
-      - Functioning-Project
       - HEAD
-      - Kirk&Johnny
-      - master
     subKeyValues:
     - Values:
-      - name: akhil&micah
-        remote:
-          name: origin
-          url: https://github.com/micahand/outbreak.git
-        trackingBranch: 
-      - name: Functioning-Project
-        remote:
-          name: origin
-          url: https://github.com/micahand/outbreak.git
-        trackingBranch: 
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/micahand/outbreak.git
-        trackingBranch: 
-      - name: Kirk&Johnny
-        remote:
-          name: origin
-          url: https://github.com/micahand/outbreak.git
-        trackingBranch: 
-      - name: master
         remote:
           name: origin
           url: https://github.com/micahand/outbreak.git

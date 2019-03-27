@@ -10,7 +10,6 @@ public class Resource : MonoBehaviour
     private void Awake()
     {
         resourceCount = 5;
-        Debug.Log(resourceCount);
     }
     void Start()
     {

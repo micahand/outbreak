@@ -60,16 +60,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Disabled.cs" />
+    <Compile Include="Assets\FlashScreen.cs" />
+    <Compile Include="Assets\LoadIniMap.cs" />
+    <Compile Include="Assets\LoadScreen.cs" />
+    <Compile Include="Assets\LongFourCounter.cs" />
+    <Compile Include="Assets\LongOneCounter.cs" />
+    <Compile Include="Assets\LongThreeCounter.cs" />
+    <Compile Include="Assets\LongTwoCounter.cs" />
     <Compile Include="Assets\MultiDisplay.cs" />
     <Compile Include="Assets\NextScene.cs" />
+    <Compile Include="Assets\PlayerChoices.cs" />
     <Compile Include="Assets\R1.cs" />
     <Compile Include="Assets\R2.cs" />
     <Compile Include="Assets\R3.cs" />
     <Compile Include="Assets\R4.cs" />
     <Compile Include="Assets\R5.cs" />
     <Compile Include="Assets\RandomizedTreatments.cs" />
+    <Compile Include="Assets\RandomTreatLong.cs" />
     <Compile Include="Assets\Resource.cs" />
     <Compile Include="Assets\ResourceManage.cs" />
+    <Compile Include="Assets\ShortTreatFour.cs" />
+    <Compile Include="Assets\ShortTreatOne.cs" />
+    <Compile Include="Assets\ShortTreatThree.cs" />
+    <Compile Include="Assets\ShortTreatTwo.cs" />
     <Compile Include="Assets\TreatmentText.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />

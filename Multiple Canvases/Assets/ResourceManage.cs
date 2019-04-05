@@ -10,12 +10,14 @@ public class ResourceManage : MonoBehaviour
     private int count;
     public Button LeftButton;
     public Button RightButton;
-
+    public SpriteRenderer[] resources;
+    private int assigned = 0;
 
     private void Awake()
     {
         resourceScript = screenObject.GetComponent<Resource>();
-        count = resourceScript.resourceCount;
+        count = resourceScript.resourceCount;        
+
     }
     // Start is called before the first frame update
     void Start()
@@ -32,20 +34,30 @@ public class ResourceManage : MonoBehaviour
 
     void Decrement()
     {
-        Debug.Log("Right Clicked");
-        if (resourceScript.resourceCount > 0)
+        Debug.Log("Assigned Before Click Value Is: " + assigned);
+        if (resourceScript.resourceCount > 0 && assigned < 5)
         {
             resourceScript.resourceCount--;
+            resources[assigned].color = new Color(1f, 1f, 1f, 1f);
+            assigned++;
+
+
+
         }
-        Debug.Log(resourceScript.resourceCount);
+        Debug.Log("Assigned After Click Value Is: " + assigned);
     }
     void Increment()
     {
-        Debug.Log("Left Clicked");
-        if (resourceScript.resourceCount < 5)
+        Debug.Log("Assigned Value Before Click Is: " + assigned);
+        if (resourceScript.resourceCount < 5 && assigned > 0)
         {
+            assigned--;
             resourceScript.resourceCount++;
+            resources[assigned].color = new Color(1f, 1f, 1f, 0f);
+            
         }
+        Debug.Log("Assigned Value After Click Is: " + assigned);
+
         Debug.Log(resourceScript.resourceCount);
     }
 }

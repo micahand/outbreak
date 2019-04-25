@@ -16,12 +16,13 @@ public static class PlayerChoices
     public static int shortAssTwo { get; set; }
     public static int shortAssThree { get; set; }
     public static int shortAssFour { get; set; }
-    public static int longAssOne { get; set; }
+    public static int longAssOne { get; set; } 
     public static int longAssTwo { get; set; }
     public static int longAssThree { get; set; }
     public static int longAssFour { get; set; }
     public static int currentMap { get; set; }
     public static int mapBranch { get; set; }
+    public static bool secondPlaythrough { get; set; }
 
 
 

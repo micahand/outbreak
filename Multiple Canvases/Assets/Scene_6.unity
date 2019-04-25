@@ -619,7 +619,7 @@ GameObject:
   - component: {fileID: 573938840}
   - component: {fileID: 573938839}
   - component: {fileID: 573938838}
-  - component: {fileID: 573938841}
+  - component: {fileID: 573938842}
   m_Layer: 9
   m_Name: Button
   m_TagString: Untagged
@@ -687,7 +687,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 573938841}
+      - m_Target: {fileID: 573938842}
         m_MethodName: Proceed
         m_Mode: 1
         m_Arguments:
@@ -737,7 +737,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 573938836}
   m_CullTransparentMesh: 0
---- !u!114 &573938841
+--- !u!114 &573938842
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -746,7 +746,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 573938836}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6995c1b84acb9c4f9be4bfa8236e61d, type: 3}
+  m_Script: {fileID: 11500000, guid: 6af4dda9713dc0c418e223e23dc0e944, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &587313419
@@ -984,6 +984,7 @@ GameObject:
   - component: {fileID: 941573069}
   - component: {fileID: 941573068}
   - component: {fileID: 941573067}
+  - component: {fileID: 941573071}
   m_Layer: 9
   m_Name: Button (1)
   m_TagString: Untagged
@@ -1113,6 +1114,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 941573065}
   m_CullTransparentMesh: 0
+--- !u!114 &941573071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941573065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b2aa1b85bd9e5e4d87ebc1da133b2b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  but: {fileID: 941573068}
 --- !u!1 &1112337644
 GameObject:
   m_ObjectHideFlags: 0
@@ -1201,6 +1215,7 @@ GameObject:
   - component: {fileID: 1462569562}
   - component: {fileID: 1462569561}
   - component: {fileID: 1462569560}
+  - component: {fileID: 1462569563}
   m_Layer: 8
   m_Name: ScreenOne
   m_TagString: Untagged
@@ -1288,6 +1303,19 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1462569563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462569558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf39b9f4eaba2d74784457e0cdff2d90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreMessage: {fileID: 1982383385}
 --- !u!1 &1774529886
 GameObject:
   m_ObjectHideFlags: 0

@@ -10,7 +10,7 @@ public class LongOneCounter : MonoBehaviour
     private int count;
     public Button LeftButton;
     public Button RightButton;
-    public SpriteRenderer[] resources;
+    public Image[] resources;
     private int assigned = 0;
 
     private void Awake()

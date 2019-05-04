@@ -4,14 +4,14 @@ using UnityEngine;
 
 public static class PlayerChoices
 {
-    public static Treat shortTreatOne { get; set; }
-    public static Treat shortTreatTwo { get; set; }
-    public static Treat shortTreatThree { get; set; }
-    public static Treat shortTreatFour { get; set; }
-    public static Treat longTreatOne { get; set; }
-    public static Treat longTreatTwo { get; set; }
-    public static Treat longTreatThree { get; set; }
-    public static Treat longTreatFour { get; set; }
+    public static Treatment shortTreatOne { get; set; }
+    public static Treatment shortTreatTwo { get; set; }
+    public static Treatment shortTreatThree { get; set; }
+    public static Treatment shortTreatFour { get; set; }
+    public static Treatment longTreatOne { get; set; }
+    public static Treatment longTreatTwo { get; set; }
+    public static Treatment longTreatThree { get; set; }
+    public static Treatment longTreatFour { get; set; }
     public static int shortAssOne { get; set; }
     public static int shortAssTwo { get; set; }
     public static int shortAssThree { get; set; }
@@ -23,21 +23,6 @@ public static class PlayerChoices
     public static int currentMap { get; set; }
     public static int mapBranch { get; set; }
     public static bool secondPlaythrough { get; set; }
-
-
-
-
-
+    public static float score { get; set; }
 }
-[System.Serializable]
-public class Treat
-{
-    public string TreatmentCommon;
-    public string TreatmentScience;
-    public string Description;
-    public string Category;
-    public string Cost;
-    public string Effective;
-    public string Location;
 
-}

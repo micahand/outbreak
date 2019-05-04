@@ -5,17 +5,17 @@ using UnityEngine.UI;
 
 public class ResourceManage : MonoBehaviour
 {
-    public GameObject screenObject;
+    public GameObject screen;
     private Resource resourceScript;
     private int count;
     public Button LeftButton;
     public Button RightButton;
-    public SpriteRenderer[] resources;
+    public Image[] resources;
     private int assigned = 0;
 
     private void Awake()
     {
-        resourceScript = screenObject.GetComponent<Resource>();
+        resourceScript = screen.GetComponent<Resource>();
         count = resourceScript.resourceCount;        
 
     }

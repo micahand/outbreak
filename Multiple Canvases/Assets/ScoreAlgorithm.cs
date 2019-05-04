@@ -10,15 +10,23 @@ public class ScoreAlgorithm : MonoBehaviour
     void Start()
     {
         float score =
-             Scaler(PlayerChoices.shortAssOne)*float.Parse(PlayerChoices.shortTreatOne.Effective) +
-             Scaler(PlayerChoices.shortAssTwo) * float.Parse(PlayerChoices.shortTreatTwo.Effective) +
-             Scaler(PlayerChoices.shortAssThree) * float.Parse(PlayerChoices.shortTreatThree.Effective) +
-             Scaler(PlayerChoices.shortAssFour) * float.Parse(PlayerChoices.shortTreatFour.Effective) +
-             Scaler(PlayerChoices.longAssOne) * float.Parse(PlayerChoices.longTreatOne.Effective) +
-             Scaler(PlayerChoices.longAssTwo) * float.Parse(PlayerChoices.longTreatTwo.Effective) +
-             Scaler(PlayerChoices.longAssThree) * float.Parse(PlayerChoices.longTreatThree.Effective) +
-             Scaler(PlayerChoices.longAssFour) * float.Parse(PlayerChoices.longTreatFour.Effective);
-        scoreMessage.text = score.ToString();
+             Scaler(PlayerChoices.shortAssOne)* PlayerChoices.shortTreatOne.score +
+             Scaler(PlayerChoices.shortAssTwo) * PlayerChoices.shortTreatTwo.score +
+             Scaler(PlayerChoices.shortAssThree) * PlayerChoices.shortTreatThree.score +
+             Scaler(PlayerChoices.shortAssFour) * PlayerChoices.shortTreatFour.score +
+             Scaler(PlayerChoices.longAssOne) * PlayerChoices.longTreatOne.score +
+             Scaler(PlayerChoices.longAssTwo) * PlayerChoices.longTreatTwo.score +
+             Scaler(PlayerChoices.longAssThree) * PlayerChoices.longTreatThree.score +
+             Scaler(PlayerChoices.longAssFour) * PlayerChoices.longTreatFour.score;
+        score = score / 5;
+        if (score >= 0.6) scoreMessage.text = "You got 5 Stars! Your'e a Malaria Master";
+        if (score >= 0.2 && score < 0.6) scoreMessage.text = "You got 4 Stars! You're a Super Scientist";
+        if (score >= -0.2 && score < 0.2) scoreMessage.text = "You got 3 Stars! You're an Accurate Analyst";
+        if (score >=-0.6 && score < -0.2) scoreMessage.text = "You got 2 Stars! You're a Some Alliteration";
+        if (score < -0.6) scoreMessage.text = "You got 1 Star. You suck!";
+
+        Debug.Log(score);
+
     }
 
     // Update is called once per frame

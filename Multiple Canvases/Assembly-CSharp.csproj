@@ -83,12 +83,16 @@
     <Compile Include="Assets\Resource.cs" />
     <Compile Include="Assets\ResourceManage.cs" />
     <Compile Include="Assets\ScoreAlgorithm.cs" />
+    <Compile Include="Assets\SecondPlaythrough.cs" />
     <Compile Include="Assets\ShortTreatFour.cs" />
     <Compile Include="Assets\ShortTreatOne.cs" />
     <Compile Include="Assets\ShortTreatThree.cs" />
     <Compile Include="Assets\ShortTreatTwo.cs" />
+    <Compile Include="Assets\Treat.cs" />
     <Compile Include="Assets\TreatmentText.cs" />
     <Compile Include="Assets\TryAgain.cs" />
+    <Compile Include="Assets\UpdateLongScore.cs" />
+    <Compile Include="Assets\UpdateScore.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />

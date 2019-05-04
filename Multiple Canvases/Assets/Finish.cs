@@ -7,6 +7,7 @@ public class Finish : MonoBehaviour
 {
     public void Proceed()
     {
+        PlayerChoices.secondPlaythrough = false;
         SceneManager.LoadScene(0);
     }
 }

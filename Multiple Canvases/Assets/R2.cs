@@ -1,19 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class R2 : MonoBehaviour
 {
-    public GameObject screenObject;
+    public GameObject screen;
     private Resource resourceScript;
-    private SpriteRenderer resOne;
+    public Image resOne;
 
 
     private void Awake()
     {
 
-        resourceScript = screenObject.GetComponent<Resource>();
-        resOne = GetComponent<SpriteRenderer>();
+        resourceScript = screen.GetComponent<Resource>();
     }
     // Start is called before the first frame update
     void Start()

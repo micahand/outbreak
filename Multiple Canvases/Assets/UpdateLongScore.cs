@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿    using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,7 +11,6 @@ public class UpdateLongScore : MonoBehaviour
              Scaler(PlayerChoices.longAssTwo) * PlayerChoices.longTreatTwo.score +
              Scaler(PlayerChoices.longAssThree) * PlayerChoices.longTreatThree.score +
              Scaler(PlayerChoices.longAssFour) * PlayerChoices.longTreatFour.score;
-
         PlayerChoices.score = score;
     }
 

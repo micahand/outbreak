@@ -26,7 +26,7 @@ public class R2 : MonoBehaviour
     {
         if (resourceScript.resourceCount < 2)
         {
-            resOne.color = new Color(1f, 1f, 1f, 0f);
+            resOne.color = new Color(1f, 1f, 1f, 0.5f);
         }
         else
         {

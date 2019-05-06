@@ -13,381 +13,496 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-05-04T18:25:39.378-04:00
-  initializedAtString: 2019-05-04T18:22:47.478-04:00
+  lastUpdatedAtString: 2019-05-06T11:28:01.864-04:00
+  initializedAtString: 2019-05-06T10:36:39.772-04:00
   entries:
-  - path: Multiple Canvases\.vs\Multiple Canvases\v15\.suo
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\.vs\Multiple
-      Canvases\v15\.suo
-    projectPath: .vs\Multiple Canvases\v15\.suo
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Multiple Canvases\.vs\Multiple Canvases\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\.vs\Multiple
-      Canvases\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\Multiple Canvases\v15\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Multiple Canvases\.vs\Multiple Canvases\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\.vs\Multiple
-      Canvases\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Multiple Canvases\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Multiple Canvases\Assembly-CSharp.csproj
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assembly-CSharp.csproj
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: Multiple Canvases\Assets\NextScene.cs
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\NextScene.cs
-    projectPath: Assets\NextScene.cs
+  - path: Multiple Canvases\Assets\0_BG.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\0_BG.png
+    projectPath: Assets\0_BG.png
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\0_BG.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\0_BG.png.meta
+    projectPath: Assets\0_BG.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\3_SCREEN.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\3_SCREEN.png
+    projectPath: Assets\3_SCREEN.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\3_SCREEN.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\3_SCREEN.png.meta
+    projectPath: Assets\3_SCREEN.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_CONTINUE 1.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_CONTINUE
+      1.png
+    projectPath: Assets\BUTTON_CONTINUE 1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_CONTINUE 1.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_CONTINUE
+      1.png.meta
+    projectPath: Assets\BUTTON_CONTINUE 1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_FINISH (1).png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_FINISH
+      (1).png
+    projectPath: Assets\BUTTON_FINISH (1).png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_FINISH (1).png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_FINISH
+      (1).png.meta
+    projectPath: Assets\BUTTON_FINISH (1).png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_KEEPPLAYING.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_KEEPPLAYING.png
+    projectPath: Assets\BUTTON_KEEPPLAYING.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_KEEPPLAYING.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_KEEPPLAYING.png.meta
+    projectPath: Assets\BUTTON_KEEPPLAYING.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_START.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_START.png
+    projectPath: Assets\BUTTON_START.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\BUTTON_START.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\BUTTON_START.png.meta
+    projectPath: Assets\BUTTON_START.png.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Multiple Canvases\Assets\Scene_2.unity
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\Scene_2.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Scene_2.unity
     projectPath: Assets\Scene_2.unity
     originalPath: 
     status: 3
     staged: 0
+  - path: Multiple Canvases\Assets\Scene_3.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Scene_3.unity
+    projectPath: Assets\Scene_3.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Multiple Canvases\Assets\Scene_4.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Scene_4.unity
+    projectPath: Assets\Scene_4.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Multiple Canvases\Assets\Scene_5.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Scene_5.unity
+    projectPath: Assets\Scene_5.unity
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Multiple Canvases\Assets\Scene_6.unity
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\Scene_6.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Scene_6.unity
     projectPath: Assets\Scene_6.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Multiple Canvases\Assets\SecondPlaythrough.cs
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Assets\SecondPlaythrough.cs
-    projectPath: Assets\SecondPlaythrough.cs
+  - path: Multiple Canvases\Assets\Scene_7.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Scene_7.unity
+    projectPath: Assets\Scene_7.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Multiple Canvases\Assets\Star_Empty.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Star_Empty.png
+    projectPath: Assets\Star_Empty.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\Star_Empty.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Star_Empty.png.meta
+    projectPath: Assets\Star_Empty.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\Star_Full.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Star_Full.png
+    projectPath: Assets\Star_Full.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\Star_Full.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Star_Full.png.meta
+    projectPath: Assets\Star_Full.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\Star_Half.png
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Star_Half.png
+    projectPath: Assets\Star_Half.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\Star_Half.png.meta
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\Star_Half.png.meta
+    projectPath: Assets\Star_Half.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Assets\StartScreen.unity
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Assets\StartScreen.unity
+    projectPath: Assets\StartScreen.unity
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\assetDatabase3
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\assetDatabase3
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\CrashedAssetImports.txt
     projectPath: Library\CrashedAssetImports.txt
     originalPath: 
     status: 1
     staged: 0
   - path: Multiple Canvases\Library\EditorInstance.json
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\EditorInstance.json
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
     staged: 0
   - path: Multiple Canvases\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Multiple Canvases\Library\metadata\4a\4a228a420d7e66745ac705447d111ccf
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\4a\4a228a420d7e66745ac705447d111ccf
-    projectPath: Library\metadata\4a\4a228a420d7e66745ac705447d111ccf
+  - path: Multiple Canvases\Library\metadata\15\157f8a5f9c8b8f54c876ed083be08c2f
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\15\157f8a5f9c8b8f54c876ed083be08c2f
+    projectPath: Library\metadata\15\157f8a5f9c8b8f54c876ed083be08c2f
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\72\72431608f2012d0439d7e5ddc1e85196
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\72\72431608f2012d0439d7e5ddc1e85196
-    projectPath: Library\metadata\72\72431608f2012d0439d7e5ddc1e85196
+  - path: Multiple Canvases\Library\metadata\15\157f8a5f9c8b8f54c876ed083be08c2f.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\15\157f8a5f9c8b8f54c876ed083be08c2f.info
+    projectPath: Library\metadata\15\157f8a5f9c8b8f54c876ed083be08c2f.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\72\72431608f2012d0439d7e5ddc1e85196.resource
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\72\72431608f2012d0439d7e5ddc1e85196.resource
-    projectPath: Library\metadata\72\72431608f2012d0439d7e5ddc1e85196.resource
+  - path: Multiple Canvases\Library\metadata\16\167282daec25a654697e20593ea4ec65
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\16\167282daec25a654697e20593ea4ec65
+    projectPath: Library\metadata\16\167282daec25a654697e20593ea4ec65
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\92\92becd2269d769e4bbab6faa286bd2c5
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\92\92becd2269d769e4bbab6faa286bd2c5
-    projectPath: Library\metadata\92\92becd2269d769e4bbab6faa286bd2c5
+  - path: Multiple Canvases\Library\metadata\16\167282daec25a654697e20593ea4ec65.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\16\167282daec25a654697e20593ea4ec65.info
+    projectPath: Library\metadata\16\167282daec25a654697e20593ea4ec65.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\92\92becd2269d769e4bbab6faa286bd2c5.info
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\92\92becd2269d769e4bbab6faa286bd2c5.info
-    projectPath: Library\metadata\92\92becd2269d769e4bbab6faa286bd2c5.info
+  - path: Multiple Canvases\Library\metadata\4d\4db880c68e37bfe4a82bb93abf8ff9e2
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\4d\4db880c68e37bfe4a82bb93abf8ff9e2
+    projectPath: Library\metadata\4d\4db880c68e37bfe4a82bb93abf8ff9e2
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\a8\a82096c048c872645abb3f1d23a30ccc
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\a8\a82096c048c872645abb3f1d23a30ccc
-    projectPath: Library\metadata\a8\a82096c048c872645abb3f1d23a30ccc
+  - path: Multiple Canvases\Library\metadata\4d\4db880c68e37bfe4a82bb93abf8ff9e2.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\4d\4db880c68e37bfe4a82bb93abf8ff9e2.info
+    projectPath: Library\metadata\4d\4db880c68e37bfe4a82bb93abf8ff9e2.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\a8\a82096c048c872645abb3f1d23a30ccc.resource
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\a8\a82096c048c872645abb3f1d23a30ccc.resource
-    projectPath: Library\metadata\a8\a82096c048c872645abb3f1d23a30ccc.resource
+  - path: Multiple Canvases\Library\metadata\55\550b04e1e77024544965eff976da5229
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\55\550b04e1e77024544965eff976da5229
+    projectPath: Library\metadata\55\550b04e1e77024544965eff976da5229
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\af\af8593d4c02630a42a8dc6a993097ba0
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\af\af8593d4c02630a42a8dc6a993097ba0
-    projectPath: Library\metadata\af\af8593d4c02630a42a8dc6a993097ba0
+  - path: Multiple Canvases\Library\metadata\55\550b04e1e77024544965eff976da5229.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\55\550b04e1e77024544965eff976da5229.info
+    projectPath: Library\metadata\55\550b04e1e77024544965eff976da5229.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\af\af8593d4c02630a42a8dc6a993097ba0.resource
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\af\af8593d4c02630a42a8dc6a993097ba0.resource
-    projectPath: Library\metadata\af\af8593d4c02630a42a8dc6a993097ba0.resource
+  - path: Multiple Canvases\Library\metadata\5f\5f467eaa24312b34da1cae6a5f0cdccb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\5f\5f467eaa24312b34da1cae6a5f0cdccb
+    projectPath: Library\metadata\5f\5f467eaa24312b34da1cae6a5f0cdccb
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\d6\d6995c1b84acb9c4f9be4bfa8236e61d
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\d6\d6995c1b84acb9c4f9be4bfa8236e61d
-    projectPath: Library\metadata\d6\d6995c1b84acb9c4f9be4bfa8236e61d
+  - path: Multiple Canvases\Library\metadata\5f\5f467eaa24312b34da1cae6a5f0cdccb.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\5f\5f467eaa24312b34da1cae6a5f0cdccb.info
+    projectPath: Library\metadata\5f\5f467eaa24312b34da1cae6a5f0cdccb.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\f6\f6fb4374386be65408e181547a61710e
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\f6\f6fb4374386be65408e181547a61710e
-    projectPath: Library\metadata\f6\f6fb4374386be65408e181547a61710e
+  - path: Multiple Canvases\Library\metadata\9c\9c6d06f76f953de47845ee7f02318218
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\9c\9c6d06f76f953de47845ee7f02318218
+    projectPath: Library\metadata\9c\9c6d06f76f953de47845ee7f02318218
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\f6\f6fb4374386be65408e181547a61710e.resource
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\f6\f6fb4374386be65408e181547a61710e.resource
-    projectPath: Library\metadata\f6\f6fb4374386be65408e181547a61710e.resource
+  - path: Multiple Canvases\Library\metadata\9c\9c6d06f76f953de47845ee7f02318218.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\9c\9c6d06f76f953de47845ee7f02318218.info
+    projectPath: Library\metadata\9c\9c6d06f76f953de47845ee7f02318218.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\fa\fa78e03189a21fd408cddb8515b8c811
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\fa\fa78e03189a21fd408cddb8515b8c811
-    projectPath: Library\metadata\fa\fa78e03189a21fd408cddb8515b8c811
+  - path: Multiple Canvases\Library\metadata\ad\ad3b300d5192416468f0fe8a7a49596c
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\ad\ad3b300d5192416468f0fe8a7a49596c
+    projectPath: Library\metadata\ad\ad3b300d5192416468f0fe8a7a49596c
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Multiple Canvases\Library\metadata\fa\fa78e03189a21fd408cddb8515b8c811.resource
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\metadata\fa\fa78e03189a21fd408cddb8515b8c811.resource
-    projectPath: Library\metadata\fa\fa78e03189a21fd408cddb8515b8c811.resource
+  - path: Multiple Canvases\Library\metadata\ad\ad3b300d5192416468f0fe8a7a49596c.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\ad\ad3b300d5192416468f0fe8a7a49596c.info
+    projectPath: Library\metadata\ad\ad3b300d5192416468f0fe8a7a49596c.info
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Library\metadata\ad\ad9aa20f195f37a4fb13a3a678d103a3
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\ad\ad9aa20f195f37a4fb13a3a678d103a3
+    projectPath: Library\metadata\ad\ad9aa20f195f37a4fb13a3a678d103a3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Library\metadata\ad\ad9aa20f195f37a4fb13a3a678d103a3.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\ad\ad9aa20f195f37a4fb13a3a678d103a3.info
+    projectPath: Library\metadata\ad\ad9aa20f195f37a4fb13a3a678d103a3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Library\metadata\b3\b3d23c8d9232abd4190517b0771410d0
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\b3\b3d23c8d9232abd4190517b0771410d0
+    projectPath: Library\metadata\b3\b3d23c8d9232abd4190517b0771410d0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Library\metadata\b3\b3d23c8d9232abd4190517b0771410d0.info
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\metadata\b3\b3d23c8d9232abd4190517b0771410d0.info
+    projectPath: Library\metadata\b3\b3d23c8d9232abd4190517b0771410d0.info
+    originalPath: 
+    status: 1
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     status: 3
     staged: 0
-  - path: Multiple Canvases\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Multiple Canvases\Library\StateCache\Hierarchy\d17139-mainStage.json
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\StateCache\Hierarchy\d17139-mainStage.json
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\StateCache\Hierarchy\d17139-mainStage.json
     projectPath: Library\StateCache\Hierarchy\d17139-mainStage.json
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\Library\StateCache\SceneView\e6c01b-mainStage.json
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Library\StateCache\SceneView\e6c01b-mainStage.json
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Library\StateCache\SceneView\e6c01b-mainStage.json
     projectPath: Library\StateCache\SceneView\e6c01b-mainStage.json
     originalPath: 
     status: 3
     staged: 0
-  - path: Multiple Canvases\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Multiple Canvases\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Multiple Canvases\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Multiple Canvases\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Multiple Canvases\ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\ProjectSettings\QualitySettings.asset
     projectPath: ProjectSettings\QualitySettings.asset
     originalPath: 
     status: 3
     staged: 0
   - path: Multiple Canvases\ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\ProjectSettings\UnityConnectSettings.asset
     projectPath: ProjectSettings\UnityConnectSettings.asset
     originalPath: 
     status: 3
     staged: 0
+  - path: Multiple Canvases\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Multiple Canvases\Temp\UnityLockfile
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityLockfile
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-19e43aa0f208fc24499a5f728fc5796a
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-19e43aa0f208fc24499a5f728fc5796a
-    projectPath: Temp\UnityTempFile-19e43aa0f208fc24499a5f728fc5796a
+  - path: Multiple Canvases\Temp\UnityTempFile-1d44f236d36c4964f9d5671524c0def8
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-1d44f236d36c4964f9d5671524c0def8
+    projectPath: Temp\UnityTempFile-1d44f236d36c4964f9d5671524c0def8
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-24dcc1272f802ff4f8515b9cb8dd87d4
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-24dcc1272f802ff4f8515b9cb8dd87d4
-    projectPath: Temp\UnityTempFile-24dcc1272f802ff4f8515b9cb8dd87d4
+  - path: Multiple Canvases\Temp\UnityTempFile-3d293e14e359347499967abdc8b27b5e
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-3d293e14e359347499967abdc8b27b5e
+    projectPath: Temp\UnityTempFile-3d293e14e359347499967abdc8b27b5e
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-2701d7850d6dfaf458d4bc2911edc052
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-2701d7850d6dfaf458d4bc2911edc052
-    projectPath: Temp\UnityTempFile-2701d7850d6dfaf458d4bc2911edc052
+  - path: Multiple Canvases\Temp\UnityTempFile-4dd2b58fcfa6a194aab3e1e003ffe577
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-4dd2b58fcfa6a194aab3e1e003ffe577
+    projectPath: Temp\UnityTempFile-4dd2b58fcfa6a194aab3e1e003ffe577
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-337a7afbe96e54a42a5520170a71345c
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-337a7afbe96e54a42a5520170a71345c
-    projectPath: Temp\UnityTempFile-337a7afbe96e54a42a5520170a71345c
+  - path: Multiple Canvases\Temp\UnityTempFile-738bc5f5650f96e45a8097f2f4cac4cc
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-738bc5f5650f96e45a8097f2f4cac4cc
+    projectPath: Temp\UnityTempFile-738bc5f5650f96e45a8097f2f4cac4cc
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-3f7301ed2f579a744a1daec87a8d11f9
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-3f7301ed2f579a744a1daec87a8d11f9
-    projectPath: Temp\UnityTempFile-3f7301ed2f579a744a1daec87a8d11f9
+  - path: Multiple Canvases\Temp\UnityTempFile-89bc788d346a5f14ea5a5bf916cb0e61
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-89bc788d346a5f14ea5a5bf916cb0e61
+    projectPath: Temp\UnityTempFile-89bc788d346a5f14ea5a5bf916cb0e61
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-b775e55233fb2564cbaf23ddc354f237
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-b775e55233fb2564cbaf23ddc354f237
-    projectPath: Temp\UnityTempFile-b775e55233fb2564cbaf23ddc354f237
+  - path: Multiple Canvases\Temp\UnityTempFile-89cc97daf4250db40b6dd8bdce0ae0af
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-89cc97daf4250db40b6dd8bdce0ae0af
+    projectPath: Temp\UnityTempFile-89cc97daf4250db40b6dd8bdce0ae0af
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-d1bb4c202f5c26843b0814e64b7221d1
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-d1bb4c202f5c26843b0814e64b7221d1
-    projectPath: Temp\UnityTempFile-d1bb4c202f5c26843b0814e64b7221d1
+  - path: Multiple Canvases\Temp\UnityTempFile-96da2137cb407514db114f4384a945bf
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-96da2137cb407514db114f4384a945bf
+    projectPath: Temp\UnityTempFile-96da2137cb407514db114f4384a945bf
     originalPath: 
     status: 1
     staged: 0
-  - path: Multiple Canvases\Temp\UnityTempFile-d392d57d899f77448b3a7df44a0899fe
-    fullPath: C:\Users\akhil\Documents\GitHub\outbreak\Multiple Canvases\Temp\UnityTempFile-d392d57d899f77448b3a7df44a0899fe
-    projectPath: Temp\UnityTempFile-d392d57d899f77448b3a7df44a0899fe
+  - path: Multiple Canvases\Temp\UnityTempFile-97f6c5ee69b84844991f7597b2bc477b
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-97f6c5ee69b84844991f7597b2bc477b
+    projectPath: Temp\UnityTempFile-97f6c5ee69b84844991f7597b2bc477b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Multiple Canvases\Temp\UnityTempFile-b48776e4430936440b38bf55d75d99ff
+    fullPath: C:\Users\micahand\Desktop\Git\outbreak\Multiple Canvases\Temp\UnityTempFile-b48776e4430936440b38bf55d75d99ff
+    projectPath: Temp\UnityTempFile-b48776e4430936440b38bf55d75d99ff
     originalPath: 
     status: 1
     staged: 0

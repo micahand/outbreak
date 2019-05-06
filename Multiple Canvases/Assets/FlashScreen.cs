@@ -40,8 +40,7 @@ public class FlashScreen : MonoBehaviour
         {
             panel.GetComponent<Image>().sprite = green[PlayerChoices.currentMap];
         }
-        panel.GetComponent<Image>().color = new Color(1f, 0f, 0f);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
         if (PlayerChoices.score > 0)
         {
             PlayerChoices.currentMap--;

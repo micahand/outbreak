@@ -11,6 +11,7 @@ public class PlayVideo : MonoBehaviour
     public RawImage image;
     //Set from the Editor
     public List<VideoClip> videoClipList;
+    public List<VideoClip> allVids;
 
     private List<VideoPlayer> videoPlayerList;
     private int videoIndex = 0;
@@ -18,6 +19,23 @@ public class PlayVideo : MonoBehaviour
 
     void Start()
     {
+       
+       /*
+            if (PlayerChoices.shortAssOne > 0)
+            {
+                videoClipList.Add(allVids[0]);
+            }
+            if (PlayerChoices.shortAssTwo > 0)
+            {
+                videoClipList.Add(allVids[1]);
+            }
+            if (PlayerChoices.shortAssThree > 0)
+            {
+                videoClipList.Add(allVids[1]);
+            }
+        
+    */
+
         StartCoroutine(playVideo());
     }
 

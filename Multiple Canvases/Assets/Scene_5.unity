@@ -235,16 +235,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 67115861}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 281b686ddbf455144a6767b6fc0380d6, type: 3}
+  m_Script: {fileID: 11500000, guid: e375859d822714447aee61b42c4c134c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   image: {fileID: 1990980093}
   videoClipList:
-  - {fileID: 32900000, guid: f6fb4374386be65408e181547a61710e, type: 3}
-  - {fileID: 32900000, guid: fa78e03189a21fd408cddb8515b8c811, type: 3}
-  - {fileID: 32900000, guid: 72431608f2012d0439d7e5ddc1e85196, type: 3}
-  - {fileID: 32900000, guid: a82096c048c872645abb3f1d23a30ccc, type: 3}
-  - {fileID: 32900000, guid: af8593d4c02630a42a8dc6a993097ba0, type: 3}
+  - {fileID: 32900000, guid: 1d354d93b2e03a74fb8cf343f6428889, type: 3}
+  - {fileID: 32900000, guid: 4d133236cf065f84993926a29e86e363, type: 3}
+  - {fileID: 32900000, guid: 9ca7f7a9c120dd74eba54ce1ddd8aac1, type: 3}
+  - {fileID: 32900000, guid: ef0c41751f1ccd5468533216338c4bd9, type: 3}
+  - {fileID: 32900000, guid: dd3a8a97aa17ef3408da693a8161f51e, type: 3}
+  allVids:
+  - {fileID: 32900000, guid: 1d354d93b2e03a74fb8cf343f6428889, type: 3}
+  - {fileID: 32900000, guid: 4d133236cf065f84993926a29e86e363, type: 3}
+  - {fileID: 32900000, guid: 9ca7f7a9c120dd74eba54ce1ddd8aac1, type: 3}
+  - {fileID: 32900000, guid: ef0c41751f1ccd5468533216338c4bd9, type: 3}
+  - {fileID: 32900000, guid: dd3a8a97aa17ef3408da693a8161f51e, type: 3}
 --- !u!328 &67115864
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -789,8 +795,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.000061035156, y: 0.00021362305}
-  m_SizeDelta: {x: 205.1, y: 53.899994}
+  m_AnchoredPosition: {x: 0.00083017, y: 19}
+  m_SizeDelta: {x: 288.1, y: 75.6}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1015902729
 MonoBehaviour:
@@ -1103,7 +1109,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00076293945, y: -0.000015258789}
+  m_AnchoredPosition: {x: -0.00076293945, y: 0}
   m_SizeDelta: {x: -52.199997, y: -29.400002}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1576816727

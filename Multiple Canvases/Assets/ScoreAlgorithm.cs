@@ -23,7 +23,7 @@ public class ScoreAlgorithm : MonoBehaviour
         score = score / 5;
         if (score >= 0.6)
         {
-            scoreMessage.text = "You got 5 Stars! Your'e a Malaria Master";
+            scoreMessage.text = "You are the Malaria Master! Your choices have really helped Stop the Outbreak and have saved thousands of lives in the Democratic Republic of Congo. Great job!";
             for(int i = 0;i <5; i++)
             {
                 stars[i].sprite = Resources.Load<Sprite>("Star_Full");
@@ -31,7 +31,7 @@ public class ScoreAlgorithm : MonoBehaviour
         }
         if (score >= 0.2 && score < 0.6)
         {
-            scoreMessage.text = "You got 4 Stars! You're a Super Scientist";
+            scoreMessage.text = "You are a Combat Champ! Your choices were good and have helped reduce the spread of this deadly disease—but can you Stop the Outbreak entirely? Play again to find out!";
             for (int i = 0; i < 4; i++)
             {
                 stars[i].sprite = Resources.Load<Sprite>("Star_Full");
@@ -39,7 +39,7 @@ public class ScoreAlgorithm : MonoBehaviour
         }
         if (score >= -0.2 && score < 0.2)
         {
-            scoreMessage.text = "You got 3 Stars! You're an Accurate Analyst";
+            scoreMessage.text = "You are a Combat Champ! Your choices were good and have helped reduce the spread of this deadly disease—but can you Stop the Outbreak entirely? Play again to find out!";
             for (int i = 0; i < 3; i++)
             {
                 stars[i].sprite = Resources.Load<Sprite>("Star_Full");
@@ -47,7 +47,7 @@ public class ScoreAlgorithm : MonoBehaviour
         }
         if (score >= -0.6 && score < -0.2)
         {
-            scoreMessage.text = "You got 2 Stars! You're a Some Alliteration";
+            scoreMessage.text = "Keep trying! Use what you have just learned to see if you can find the best treatment options that will help Stop the Outbreak.";
             for (int i = 0; i < 2; i++)
             {
                 stars[i].sprite = Resources.Load<Sprite>("Star_Full");
@@ -55,7 +55,7 @@ public class ScoreAlgorithm : MonoBehaviour
         }
         if (score < -0.6)
         {
-            scoreMessage.text = "You got 1 Star. You suck!";
+            scoreMessage.text = "Keep trying! Use what you have just learned to see if you can find the best treatment options that will help Stop the Outbreak.";
             for (int i = 0; i < 1; i++)
             {
                 stars[i].sprite = Resources.Load<Sprite>("Star_Full");
